@@ -10,11 +10,11 @@ Data Visualization and Analysis:
 Tools like Seaborn and Matplotlib were employed to visualize data correlations and trends, helping in both the exploratory data analysis phase and in presenting the model outcomes effectively.
 Deployment via Streamlit:
 The model was integrated into a user-friendly web application developed using Streamlit, enabling real-time predictions and interaction with end-users who can input specific conditions to receive bike rental demand forecasts.
-![Screenshot (112)](https://github.com/user-attachments/assets/851fb91f-b781-40e5-8244-3d9784b246ba)
-![Screenshot (118)](https://github.com/user-attachments/assets/6835a473-4565-4d8e-bb4d-062837fdf59d)
-![Screenshot (117)](https://github.com/user-attachments/assets/b756d8f5-d95f-4325-88bd-7b9ecf5fa7d6)
-![Screenshot (116)](https://github.com/user-attachments/assets/657e3f99-e72b-4abd-8c73-f3aa391fb9c9)
-![Screenshot (115)](https://github.com/user-attachments/assets/bb6bef94-2b02-4ce1-b1a7-d8ee5921363b)
-![Screenshot (114)](https://github.com/user-attachments/assets/5b27ffd6-b783-4d93-8cb9-3a05d3c8c5c2)
-![Screenshot (113)](https://github.com/user-attachments/assets/a7607b15-ecf9-4557-985c-8a3d3951b895)
-![Screenshot (119)](https://github.com/user-attachments/assets/18f21eb2-c122-43ed-8f2d-05e00bc95bef)
+
+![Screenshot (112)](https://github.com/user-attachments/assets/1b46ff76-05c8-415a-97e7-5c1b7c00b2ee)
+![Screenshot (113)](https://github.com/user-attachments/assets/e7ef8e31-eb45-4d79-acb3-8fd81b8ad626)
+![Screenshot (117)](https://github.com/user-attachments/assets/5fa856ad-a1da-489a-88ef-0bc5e55c703c)
+![Screenshot (116)](https://github.com/user-attachments/assets/2e7520be-3106-401c-9749-4c6b47cfdb9b)
+![Screenshot (115)](https://github.com/user-attachments/assets/165896c4-5a7f-42aa-b7b3-03fce902ef96)
+![Screenshot (114)](https://github.com/user-attachments/assets/5c3b83bf-d674-417e-b518-c11d6fa2f51b)
+![Screenshot (120)](https://github.com/user-attachments/assets/cf5667d6-c27f-43d0-baa3-6e38faedb504)
