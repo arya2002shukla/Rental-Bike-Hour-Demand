@@ -66,9 +66,9 @@ mask = np.array(corr)
 mask[np.tril_indices_from(mask)] = False
 fig, ax = plt.subplots()
 fig.set_size_inches(20, 10)
-ax = sn.heatmap(corr, mask=mask, vmax=.9, square=True,
-                annot=True, cmap="YlGnBu")
-st.pyplot(fig)
+# ax = sn.heatmap(corr, mask=mask, vmax=.9, square=True,
+#                 annot=True, cmap="YlGnBu")
+# st.pyplot(fig)
 
 # Visualize bike rental demand over time
 st.markdown(
